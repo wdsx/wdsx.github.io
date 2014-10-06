@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Retrospective Techniques
+title: Agile Techniques
 ---
 ## Data Gathering
 
