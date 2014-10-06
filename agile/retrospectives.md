@@ -1,7 +1,7 @@
 ---
+layout: default
+title: Retrospective Techniques
 ---
-# Retrospective Techniques
-
 ## Data Gathering
 
 The following are some common techniques we use for initial data gathering.
