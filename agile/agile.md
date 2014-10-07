@@ -2,9 +2,13 @@
 layout: default
 title: Agile Techniques
 ---
+<a name="toc"/>
+
 * [Agile Learning](#agilelearning)
 * [Retrospectives](#retrospectives)
 * [Estimation](#estimation)
+
+___
 
 <a name="agilelearning"/>
 
@@ -35,6 +39,9 @@ This is a way to teach people the basics of working as an agile team, in a short
  * Change requirements after the first iteration
  * Swap team members in and out
 
+[Table of Contents](#toc)
+___
+
 <a name="retrospectives"/>
 
 ## Retrospectives 
@@ -64,6 +71,9 @@ An alternative is the Indiana Jones retro - a mine cart, hurtling down the track
 #### Art Attack!
 
 Instead of writing, attendees draw their experiences.  Optionally the room can be split into smaller teams, rather than individuals, and other rules such as when the pen lifts from the page, hand over to the next person.
+
+[Table of Contents](#toc)
+___
 
 <a name="estimation"/>
 
@@ -118,3 +128,5 @@ Other techniques we have used is T-shirt sizes (Small, Medium, Large, Extra-Larg
 * The team have to estimate which animals they can build in a given period (synonymous to an agile sprint or iteration), based on the animal names alone, using one of the above techniques
 * They are then given the instructions, and given the length of time, see how their estimates panned out
 * Optionally they are given a second set of animals, to estimate again
+
+[Table of Contents](#toc)
