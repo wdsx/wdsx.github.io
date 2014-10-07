@@ -2,6 +2,12 @@
 layout: default
 title: Agile Techniques
 ---
+## Table of Contents  
+[Agile Learning](#agile-learning)  
+[Retrospectives](#retrospectives)
+[Estimation](#estimation)
+
+<a name="agile-learning"/>
 ## Agile Learning
 
 ### The Brick Building Game
@@ -29,6 +35,7 @@ This is a way to teach people the basics of working as an agile team, in a short
  * Change requirements after the first iteration
  * Swap team members in and out
 
+<a name="retrospectives"/>
 ## Retrospectives 
 
 ### Data Gathering
@@ -57,6 +64,7 @@ An alternative is the Indiana Jones retro - a mine cart, hurtling down the track
 
 Instead of writing, attendees draw their experiences.  Optionally the room can be split into smaller teams, rather than individuals, and other rules such as when the pen lifts from the page, hand over to the next person.
 
+<a name="estimation"/>
 ## Estimation
 
 Each team estimates stories in their own, internal currency.  These currencies are not related to each other, and neither are they related to "real time".
