@@ -20,7 +20,7 @@ This is a way to teach people the basics of working as an agile team, in a short
 
 #### What you will need
 
-* Several large tubs of building bricks (e.g. http://brickset.com/sets/10663-1/Creative-Chest)
+* Several large tubs of building bricks - e.g. [Creative-Chest](http://brickset.com/sets/10663-1/Creative-Chest)
  * One of these per team
 * A basic idea of what you're going to build
  * Examples - brewery, city, airport, house
