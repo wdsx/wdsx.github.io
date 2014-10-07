@@ -40,6 +40,7 @@ This is a way to teach people the basics of working as an agile team, in a short
  * Swap team members in and out
 
 [Table of Contents](#toc)
+
 ___
 
 <a name="retrospectives"/>
@@ -73,6 +74,7 @@ An alternative is the Indiana Jones retro - a mine cart, hurtling down the track
 Instead of writing, attendees draw their experiences.  Optionally the room can be split into smaller teams, rather than individuals, and other rules such as when the pen lifts from the page, hand over to the next person.
 
 [Table of Contents](#toc)
+
 ___
 
 <a name="estimation"/>
@@ -130,3 +132,4 @@ Other techniques we have used is T-shirt sizes (Small, Medium, Large, Extra-Larg
 * Optionally they are given a second set of animals, to estimate again
 
 [Table of Contents](#toc)
+
