@@ -2,6 +2,32 @@
 layout: default
 title: Agile Techniques
 ---
+## Agile Learning
+
+### The Brick Building Game
+
+This is a way to teach people the basics of working as an agile team, in a short time frame.
+
+#### What you will need
+
+* Several large tubs of building bricks (e.g. http://brickset.com/sets/10663-1/Creative-Chest)
+ * One of these per team
+* A basic idea of what you're going to build
+ * Examples - brewery, city, airport, house
+ * Think of all the things needed to build your end-goal
+ * These become your stories
+
+#### Setting up the game
+
+* Split the room into smaller teams
+* Each team should get one tub of bricks
+* Give each team the first set of stories, and 15 minutes or so to build those stories
+ * The teams can act as a whole, or in smaller groups etc.
+* After the first "iteration", a representative of each team will come up and "show" what they have done to everybody
+* The next iteration, they should have a better idea of how many "stories" they can provide, etc.
+* To mix things up
+ * Change requirements after the first iteration
+ * Swap team members in and out
 
 ## Retrospectives 
 
