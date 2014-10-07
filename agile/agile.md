@@ -2,12 +2,13 @@
 layout: default
 title: Agile Techniques
 ---
-## Table of Contents  
-[Agile Learning](#agile-learning)  
+
+##### Table of Contents  
+[Agile Learning](#agilelearning)  
 [Retrospectives](#retrospectives)
 [Estimation](#estimation)
 
-<a name="agile-learning"/>
+<a name="agilelearning"/>
 ## Agile Learning
 
 ### The Brick Building Game
