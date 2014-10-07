@@ -41,8 +41,7 @@ This is a way to teach people the basics of working as an agile team, in a short
 
 [Table of Contents](#toc)
 
-</section>
-<section>
+___
 
 <a name="retrospectives"/>
 
@@ -76,8 +75,7 @@ Instead of writing, attendees draw their experiences.  Optionally the room can b
 
 [Table of Contents](#toc)
 
-</section>
-<section>
+___
 
 <a name="estimation"/>
 
